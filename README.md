@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adityatiwary11
 - 👀 I’m interested in Development and Coding.
-- 🌱 I’m currently learning C++, Javascript, Networking, Operating system and many more to learn.
+- 🌱 I’m currently learning C++, React, Networking, Operating system and many more to learn.
 - 💞️ I’m looking to collaborate on hackathon, Projects (Frontend, Backend), AI.
 - 📫 How to reach me E-mail:- 123adityatiwary@gmail.com
 
