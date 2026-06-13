@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Backend+Developer;Problem+Solver;Computer+Science+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Frontend+Developer;Problem+Solver;Computer+Science+Student" alt="Typing SVG" />
 
 <br>
 
@@ -10,7 +10,7 @@
 
 </div>
 
-<h3 align="center">Software Engineer • Problem Solver</h3>
+<h3 align="center">Software Engineer • Frontend Developer • Problem Solver • Computer Science Student</h3>
 
 <p align="center">
   <a href="https://github.com/Adityatiwary11">
@@ -38,12 +38,12 @@ public:
         "Problem Solving"
     };
 
-    vector<string> currentlyLearning = {
-        "Advanced DSA",
-        "System Design",
-        "Backend Engineering",
-        "Computer Science Fundamentals"
-    };
+  vector<string> currentlyLearning = {
+    "DSA",
+    "React",
+    "Frontend Development",
+    "Computer Science Fundamentals"
+};
 };
 ```
 
@@ -53,7 +53,7 @@ public:
 📅 2023 – 2027
 📍 Kolkata, India
 
-I am a Computer Science student passionate about building scalable software, solving real-world problems, and strengthening my foundation in core computer science concepts. My interests include Software Engineering, Backend Development, Full Stack Development, System Programming, and Problem Solving.
+I am a Computer Science student passionate about building scalable software, solving real-world problems, and strengthening my foundation in core computer science concepts. My interests include Software Engineering, Frontend Development, System Programming, Problem Solving, and Core Computer Science.
 
 ---
 
@@ -239,8 +239,8 @@ https://adityatiwary11.github.io/Portfolio/
 # 🎯 Current Focus
 
 * Data Structures & Algorithms
-* Backend Development
-* Full Stack Development
+* Frontend Development
+* React Development
 * Operating Systems
 * DBMS
 * Computer Networks
@@ -252,9 +252,8 @@ https://adityatiwary11.github.io/Portfolio/
 
 # 🤝 Open To
 
+* Frontend Development Internships
 * Software Engineering Internships
-* Full Stack Development Opportunities
-* Backend Development Roles
 * Open Source Collaboration
 * Technical Networking
 
