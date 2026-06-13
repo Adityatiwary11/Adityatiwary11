@@ -10,7 +10,7 @@
 
 </div>
 
-<h3 align="center">Software Engineer • Full Stack Developer • Backend Developer • Problem Solver</h3>
+<h3 align="center">Software Engineer • Problem Solver</h3>
 
 <p align="center">
   <a href="https://github.com/Adityatiwary11">
@@ -31,8 +31,8 @@ public:
     double cgpa = 8.5;
 
     vector<string> interests = {
-        "Backend Development",
-        "Full Stack Development",
+        "Web Development",
+        "Frontend Development",
         "System Programming",
         "Open Source",
         "Problem Solving"
