@@ -231,7 +231,7 @@ https://adityatiwary11.github.io/Portfolio/
 > To enable the snake animation, create a GitHub Action later. The placeholder below is ready for future setup.
 
 ```md
-![Snake animation](https://github.com/Adityatiwary11/Adityatiwary11/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Adityatiwary11/Adityatiwary11/blob/output/github-contribution-grid-snake-dark.svg)
 ```
 
 ---
