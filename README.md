@@ -189,24 +189,6 @@ A responsive personal portfolio showcasing my technical skills, projects, and de
 
 ---
 
-## 4. 📊 Shipment Data Quality & Analytics System
-
-**Tech Stack:** Python, Pandas, SQL
-
-A data analysis project focused on identifying data quality issues and extracting useful insights from shipment records.
-
-**Key Features:**
-
-- Analyzed shipment datasets using Python and Pandas.
-- Checked for missing values and duplicate shipment records.
-- Identified invalid shipment and delivery date values.
-- Applied data cleaning and validation techniques.
-- Used SQL concepts to support structured data analysis.
-
-**Concepts Demonstrated:** Data cleaning, data validation, exploratory analysis, Python, Pandas, and SQL.
-
----
-
 # 💼 Experience & Development Journey
 
 ### Software Engineering & Project Development
