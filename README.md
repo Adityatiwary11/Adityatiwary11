@@ -28,7 +28,7 @@ class AdityaTiwary {
 public:
     string role = "Aspiring Software Engineer";
     string education = "B.Tech CSE @ IEM Kolkata";
-    double cgpa = 8.5;
+    double cgpa = 8.42;
 
     vector<string> interests = {
         "Software Engineering",
