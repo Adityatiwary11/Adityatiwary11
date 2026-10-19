@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Frontend+Developer;Problem+Solver;Computer+Science+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;Backend+Developer;Frontend+Developer;Problem+Solver;Computer+Science+Student" alt="Typing SVG" />
 
 <br>
 
@@ -10,7 +10,7 @@
 
 </div>
 
-<h3 align="center">Software Engineer • Frontend Developer • Problem Solver • Computer Science Student</h3>
+<h3 align="center">Aspiring Software Engineer • Backend Developer • Problem Solver • Computer Science Student</h3>
 
 <p align="center">
   <a href="https://github.com/Adityatiwary11">
@@ -26,34 +26,35 @@
 ```cpp
 class AdityaTiwary {
 public:
-    string role = "Software Engineer";
+    string role = "Aspiring Software Engineer";
     string education = "B.Tech CSE @ IEM Kolkata";
     double cgpa = 8.5;
 
     vector<string> interests = {
-        "Web Development",
+        "Software Engineering",
+        "Backend Development",
         "Frontend Development",
         "System Programming",
-        "Open Source",
         "Problem Solving"
     };
 
-  vector<string> currentlyLearning = {
-    "DSA",
-    "React",
-    "Frontend Development",
-    "Computer Science Fundamentals"
-};
+    vector<string> currentlyLearning = {
+        "Data Structures & Algorithms",
+        "Node.js and Express.js",
+        "React",
+        "PostgreSQL",
+        "Core Computer Science Fundamentals"
+    };
 };
 ```
 
-🎓 B.Tech Computer Science & Engineering
-🏫 Institute of Engineering and Management (IEM), Kolkata
-📈 CGPA: 8.5/10
-📅 2023 – 2027
+🎓 B.Tech Computer Science & Engineering  
+🏫 Institute of Engineering and Management (IEM), Kolkata  
+📈 CGPA: 8.5/10  
+📅 2023 – 2027  
 📍 Kolkata, India
 
-I am a Computer Science student passionate about building scalable software, solving real-world problems, and strengthening my foundation in core computer science concepts. My interests include Software Engineering, Frontend Development, System Programming, Problem Solving, and Core Computer Science.
+I am a Computer Science student passionate about building reliable software, developing backend systems, and solving real-world problems through code. My interests include Software Engineering, Backend Development, Frontend Development, System Programming, and Core Computer Science. I continuously strengthen my technical foundation through hands-on projects, problem-solving, and learning industry-relevant technologies.
 
 ---
 
@@ -237,8 +238,10 @@ https://adityatiwary11.github.io/Portfolio/
 # 🎯 Current Focus
 
 * Data Structures & Algorithms
-* Frontend Development
+* Backend Development
+* Node.js and Express.js
 * React Development
+* PostgreSQL
 * Operating Systems
 * DBMS
 * Computer Networks
@@ -250,8 +253,9 @@ https://adityatiwary11.github.io/Portfolio/
 
 # 🤝 Open To
 
-* Frontend Development Internships
 * Software Engineering Internships
+* Backend Development Internships
+* Frontend Development Internships
 * Open Source Collaboration
 * Technical Networking
 
@@ -287,7 +291,7 @@ https://adityatiwary11.github.io/Portfolio/
 
 <div align="center">
 
-### Building scalable software, solving real problems, and continuously learning.
+### Building reliable software, solving real-world problems, and continuously growing as an engineer.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:A855F7&height=120&section=footer"/>
 
